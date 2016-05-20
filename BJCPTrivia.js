@@ -14,11 +14,11 @@ var questions = [
         ]
     },  
     {
-        "Who makes the best american brown ale in the world?": [
-            "Luke Nyswonger.",
-            "Donald Trump.",
-            "Hillary Clinton.",
-            "Bill Gates."
+        "Wild barley was harvest around when?": [
+            "17,000 BC.",
+            "1,000 BC.",
+            "1,000,000 years ago.",
+            "Early 1400's."
         ]
     },
     {
