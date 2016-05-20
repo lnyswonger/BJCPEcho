@@ -7,7 +7,7 @@
 var questions = [
     {
         "What is lacing?": [
-            "A characteristic and persistent latticework pattern of foam left on the inside of the glass as a beer is consumed.",
+            "A characteristic and persistent latticework pattern of foam residing on the inside of the glass as a beer is consumed.",
             "A measurement of beer color.",
             "An alternative way to describe aroma in beer.",
             "This is not related to beer."
