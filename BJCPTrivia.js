@@ -13,6 +13,33 @@ var questions = [
             "Grassy",
             "Green apple"
         ]
+    },
+        {
+        "If I describe a beer as having a moderately rich German malt aroma similar to, though less intense, than Oktoberfest and a clean lager character, with no fruity esters or diacetyl. What beer would this be?": [
+            "Vinenna Lager",
+            "India Pale Ale",
+            "American Stout",
+            "Lambic",
+            "Pilsner"
+        ]
+    },
+    {
+        "What year was the BJCP founded?": [
+            "1985",
+            "1972",
+            "1982",
+            "1993",
+            "2000"
+        ]
+    },
+    {
+        "Which of the following would best describe a light bodied beer?": [
+        "Low viscosity",
+        "Cloying",
+        "Heavy",
+        "Thick",
+        "Chewy"
+        ]
     },  
     {
         "The region of origin for Lambic is:": [
