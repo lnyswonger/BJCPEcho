@@ -14,6 +14,33 @@ var questions = [
             "Green apple"
         ]
     },
+    {
+        "Which descriptor is not used when describing beer?": [
+            "Touch",
+            "Appearance",
+            "Aroma",
+            "Flavor",
+            "Mouthfeel"
+        ]
+    },
+        {
+        "What is the latest version of the BJCP style guidelines?": [
+            "2015",
+            "2008",
+            "2006",
+            "2016",
+            "2010"
+        ]
+    },
+    {
+        "This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors.": [
+            "Standard American Beer",
+            "Stout",
+            "Interntaional Lager",
+            "British Bitter",
+            "Strong American Ale"
+        ]
+    },
         {
         "If I describe a beer as having a moderately rich German malt aroma similar to, though less intense, than Oktoberfest and a clean lager character, with no fruity esters or diacetyl. What beer would this be?": [
             "Vinenna Lager",
