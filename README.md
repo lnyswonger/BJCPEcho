@@ -12,3 +12,9 @@ The BJCP Trivia app is a voice enabled Skill for the Amazon Echo in which people
 
 
 ### How to contribute to the project
+The idea around contributions is to generate a large pool of questions that can help people further their education around the BJCP. You can do this in one of several ways:
+
+ 1. Edit the source code for BJCPTrivia.js and submit a pull request for me to incorporate the changes. I'm only looking for new questions/answers and do not plan to incorporate a ton of changes to the actual code itself.
+ 2. Submit an issue against the repo and I can incorporate the changes.
+
+Periodically I will update the code in Azure Web Services to incorporate all of the changes/asks.
