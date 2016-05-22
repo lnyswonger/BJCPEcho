@@ -6,6 +6,15 @@
  */
 var questions = [
     {
+        "Brettanomyces is a common brewery contaminant that is typically attributed to causing what off-flavor in beer?": [
+            "Horse Blanket",
+            "Rancid butter",
+            "Sherry",
+            "Grassy",
+            "Green apple"
+        ]
+    },  
+    {
         "What is lacing?": [
             "A characteristic and persistent latticework pattern of foam residing on the inside of the glass as a beer is consumed.",
             "A measurement of beer color.",
@@ -208,7 +217,7 @@ function onSessionEnded(sessionEndedRequest, session) {
 // ------- Skill specific business logic -------
 
 var ANSWER_COUNT = 4;
-var GAME_LENGTH = 7;
+var GAME_LENGTH = 5;
 var CARD_TITLE = "BJCP 2015 Trivia"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
