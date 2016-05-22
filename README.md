@@ -6,6 +6,7 @@ The Beer Judge Certification Program or BJCP is a non-profit organization formed
 As part of learning how to become a judge, the BJCP has a continuing education program along with several resources in the community that help you prepare to become a judge. The purpose of this game is to help you along in your journey.
 
 ### About the BJCP 2015 Trivia Game
-The BJCP Trivia app is a voice enabled Skill for the Amazon Echo in which people can use to self-study for the BJCP certification by listening to Alexa ask questions and then respond in natural language. There are already several apps for Android, iOS, Windows, and Web which allow people to learn about the styles in one format and this would help augment the learning experience for those people that have the Amazon Echo. To read more 
+The BJCP Trivia app is a voice enabled Skill for the Amazon Echo in which people can use to self-study for the BJCP certification by listening to Alexa ask questions and then respond in natural language. There are already several apps for Android, iOS, Windows, and Web which allow people to learn about the styles in one format and this would help augment the learning experience for those people that have the Amazon Echo. To see more about using the Amazon Echo during your brewing day, see this [article](http://www.homebrewtalk.com/homebrewing-amazon-echo.html).
+![enter image description here](http://www.homebrewtalk.com/wp-content/uploads/2016/05/Echo2-F.jpg)
 
 ### How to contribute to the project
