@@ -7,6 +7,8 @@ As part of learning how to become a judge, the BJCP has a continuing education p
 
 ### About the BJCP 2015 Trivia Game
 The BJCP Trivia app is a voice enabled Skill for the Amazon Echo in which people can use to self-study for the BJCP certification by listening to Alexa ask questions and then respond in natural language. There are already several apps for Android, iOS, Windows, and Web which allow people to learn about the styles in one format and this would help augment the learning experience for those people that have the Amazon Echo. To see more about using the Amazon Echo during your brewing day, see this [article](http://www.homebrewtalk.com/homebrewing-amazon-echo.html).
+
 ![enter image description here](http://www.homebrewtalk.com/wp-content/uploads/2016/05/Echo2-F.jpg)
+
 
 ### How to contribute to the project
