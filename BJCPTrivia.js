@@ -15,6 +15,33 @@ var questions = [
         ]
     },  
     {
+        "The region of origin for Lambic is:": [
+        "Flanders",
+        "Dublin",
+        "London",
+        "The Senne Valley",
+        "Burton-on-Trent"
+        ]
+    },  
+    {
+        "Which of the following compounds might give a vegetal character to a beer?": [
+        "DMS",
+        "Acetaldehyde",
+        "Iron",
+        "Diacetyl",
+        "Butyric Acid"
+        ]
+    },  
+     {
+        "The best water profile for an English Pale Ale is": [
+        "Burtonized",
+        "Moderate carbonate",
+        "Moderate sulfate",
+        "Very soft",
+        "High carbonate"
+        ]
+    },  
+    {
         "What is lacing?": [
             "A characteristic and persistent latticework pattern of foam residing on the inside of the glass as a beer is consumed.",
             "A measurement of beer color.",
